@@ -1,0 +1,6 @@
+echo "Init git"
+git config --global user.name "Ivan Petsuk"
+git config --global user.email "personal_training@doit.com"
+ssh-keygen -t rsa -b 4096 -C "personal_training@doit.com"
+eval "$(ssh-agent -s)"
+echo "Great Job!"

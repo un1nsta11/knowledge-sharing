@@ -1,0 +1,14 @@
+[2024-08-27 19:25:49,700] [INFO] [zeus] : new_function:10 - This is information message
+[2024-08-27 19:25:49,700] [ERROR] [zeus] : new_function:16 - The file was not found!
+[2024-08-27 19:30:31,246] [DEBUG] [zeus] : <module>:18 - Debugging message
+[2024-08-27 19:30:31,246] [INFO] [zeus] : <module>:19 - Function executed. No errors, was found item in index 3
+[2024-08-27 19:30:31,246] [WARNING] [zeus] : <module>:20 - First time item was not found, but second
+[2024-08-27 19:30:31,246] [ERROR] [zeus] : <module>:21 - Error
+[2024-08-27 19:30:31,246] [CRITICAL] [zeus] : <module>:22 - Application work completed
+[2024-08-27 19:30:31,246] [INFO] [zeus] : new_function:11 - This is information message
+[2024-08-27 19:30:59,327] [DEBUG] [zeus] : <module>:18 - Debugging message
+[2024-08-27 19:30:59,327] [INFO] [zeus] : <module>:19 - Function executed. No errors, was found item in index 3
+[2024-08-27 19:30:59,327] [WARNING] [zeus] : <module>:20 - First time item was not found, but second
+[2024-08-27 19:30:59,327] [ERROR] [zeus] : <module>:21 - Error
+[2024-08-27 19:30:59,327] [CRITICAL] [zeus] : <module>:22 - Application work completed
+[2024-08-27 19:30:59,327] [INFO] [zeus] : new_function:11 - This is information message
